@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-21T01:47:09 IST" name="Default suite" finished-at="2025-03-21T01:47:30 IST" duration-ms="20833">
+    <groups>
+    </groups>
+    <test started-at="2025-03-21T01:47:09 IST" name="Default test" finished-at="2025-03-21T01:47:30 IST" duration-ms="20833">
+      <class name="com.Xalts.Assignment.TestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:09 IST" name="setUp" finished-at="2025-03-21T01:47:11 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Id1()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:11 IST" name="Id1" description="Verify that a user can successfully sign up with a valid email and password." finished-at="2025-03-21T01:47:14 IST" duration-ms="2885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Id1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:14 IST" name="tearDown" finished-at="2025-03-21T01:47:14 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:14 IST" name="setUp" finished-at="2025-03-21T01:47:16 IST" duration-ms="1360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Id2()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:16 IST" name="Id2" description="Verify that the system shows an error message when the user enters an invalid email format." finished-at="2025-03-21T01:47:16 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Id2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:16 IST" name="tearDown" finished-at="2025-03-21T01:47:17 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:17 IST" name="setUp" finished-at="2025-03-21T01:47:18 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Id3()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:18 IST" name="Id3" description="Verify that the system displays an error message when the user enters a password that does not meet the criteria" finished-at="2025-03-21T01:47:19 IST" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Id3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:19 IST" name="tearDown" finished-at="2025-03-21T01:47:19 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:19 IST" name="setUp" finished-at="2025-03-21T01:47:20 IST" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Id4()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:20 IST" name="Id4" description="Verify that the system shows an error message when the user tries to sign up with an email that already exists in the system." finished-at="2025-03-21T01:47:26 IST" duration-ms="5353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Id4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:26 IST" name="tearDown" finished-at="2025-03-21T01:47:26 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:26 IST" name="setUp" finished-at="2025-03-21T01:47:27 IST" duration-ms="1284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Id5()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:27 IST" name="Id5" description="verify that the Node ID field correctly validates the input format and accepts valid entries" finished-at="2025-03-21T01:47:30 IST" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Id5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Xalts.Assignment.TestCases@436813f3]" started-at="2025-03-21T01:47:30 IST" name="tearDown" finished-at="2025-03-21T01:47:30 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Xalts.Assignment.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
