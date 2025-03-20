@@ -22,11 +22,6 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-    	<groupId>com.coforge</groupId>
-    	<artifactId>LHHAPIAutomationFramework</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
         <version>3.141.59</version>
